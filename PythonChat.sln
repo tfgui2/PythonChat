@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonChatServer", "PythonChatServer\PythonChatServer.pyproj", "{C863FFE5-0693-4C4F-B05E-53D1E2E5EB59}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonChatClient", "PythonChatClient\PythonChatClient.pyproj", "{EC314B25-ABF0-4398-91E5-64DE432C9836}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{C863FFE5-0693-4C4F-B05E-53D1E2E5EB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C863FFE5-0693-4C4F-B05E-53D1E2E5EB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC314B25-ABF0-4398-91E5-64DE432C9836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC314B25-ABF0-4398-91E5-64DE432C9836}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
